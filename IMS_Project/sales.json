@@ -1,0 +1,17 @@
+Bill of Buyer1:
+
+{"Product": "Soya Sauce", "Quantity": 3, "MRP": 135.0, "Our Price": 121.5, "Taxes and Charges": 9.72, "Net amount": 131.22}
+{"Product": "Soap", "Quantity": 12, "MRP": 360.0, "Our Price": 324.0, "Taxes and Charges": 16.2, "Net amount": 340.2}
+{"Product": "Horlicks", "Quantity": 2, "MRP": 314.0, "Our Price": 282.6, "Taxes and Charges": 16.956, "Net amount": 299.55600000000004}
+{"Product": "Hand Wash", "Quantity": 3, "MRP": 165.0, "Our Price": 148.5, "Taxes and Charges": 5.94, "Net amount": 154.44}
+Total Amount: 925.4159999999999
+
+Bill of Buyer2:
+
+{"Product": "Lays", "Quantity": 4, "MRP": 120.0, "Our Price": 108.0, "Taxes and Charges": 4.32, "Net amount": 112.32}
+{"Product": "Cocoa Powder", "Quantity": 2, "MRP": 336.0, "Our Price": 302.40000000000003, "Taxes and Charges": 18.144000000000002, "Net amount": 320.54400000000004}
+{"Product": "Dates", "Quantity": 4, "MRP": 920.0, "Our Price": 828.0, "Taxes and Charges": 41.400000000000006, "Net amount": 869.4}
+{"Product": "Bread", "Quantity": 5, "MRP": 125.0, "Our Price": 112.5, "Taxes and Charges": 3.375, "Net amount": 115.875}
+Total Amount: 1418.1390000000001
+
+Total products sold of Rs.: 2343.5550000000003
